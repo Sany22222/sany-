@@ -1,3 +1,3 @@
 # sany-
-cd sany-
-python sany-py
+$cd sany-
+$python sany-py
